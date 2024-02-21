@@ -1,0 +1,9 @@
+﻿  E02-317204542.cpp
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC\LabCGeiHC11_P2\LabCGeiHC11_P2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E02-317204542.cpp")
+  
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC\LabCGeiHC11_P2\LabCGeiHC11_P2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E02-317204542.cpp")
+  
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC\LabCGeiHC11_P2\LabCGeiHC11_P2\E02-317204542.cpp(17,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  LabCGeiHC11_P2.vcxproj -> C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC\LabCGeiHC11_P2\Debug\LabCGeiHC11_P2.exe
