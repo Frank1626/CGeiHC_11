@@ -1,0 +1,23 @@
+﻿  P04-317204542_Grua.cpp
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P04-317204542_Grua.cpp")
+  
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P04-317204542_Grua.cpp")
+  
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(191,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(233,32): warning C4244:         with
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(233,32): warning C4244:         [
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(233,32): warning C4244:             _Ty=GLfloat
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(233,32): warning C4244:         ]
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(235,32): warning C4244:         with
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(235,32): warning C4244:         [
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(235,32): warning C4244:             _Ty=GLfloat
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(235,32): warning C4244:         ]
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(327,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\P04-317204542_Grua.cpp(329,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  LabCGeIHC11_P4.vcxproj -> C:\Users\Arturo\Documents\Visual Studio 2022\LabCGeiHC11\LabCGeIHC11_P4\Debug\LabCGeIHC11_P4.exe
